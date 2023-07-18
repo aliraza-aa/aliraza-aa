@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Raza
-- 👀 I’m interested in Biophysics, Quantum Computing, Artificial Intelligence, web3
-- 🌱 I’m currently learning web3 technologies
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Biophysics and Artificial Intelligence
+- 🌱 I’m currently learning MD simulations using gromacs and plumed
+# - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through email: alirp366@gmail.com
 
 <!---
